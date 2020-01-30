@@ -1,15 +1,16 @@
 /// @description 
 scale = 0.08;
+scale = 0.06;
 image_xscale = scale;
 image_yscale = scale;
 xmov=0;
 ymov=0;
 ang = 0;
 face = face_spr;
-arm = arm_spr;
+arm = arm_spr_2;
 class = bun.thicc;
 emotion = emote.norm;
-facing = 0;
+facing = 0; 
 holding = false;
 pickup = false;
 spin_count = 0;
