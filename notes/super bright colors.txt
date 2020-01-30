@@ -1,0 +1,10 @@
+switch class
+{
+	case bun.thicc: image_blend = make_colour_rgb(252,244,247); image_index = bc_specs[class,deets.spr_index]; break;	//pink
+	case bun.sticc: image_blend = make_colour_rgb(252,219,204);	image_index = bc_specs[class,deets.spr_index]; break;	//orange
+	case bun.smol: image_blend = make_colour_rgb(239,247,249);	image_index = bc_specs[class,deets.spr_index]; break;	//light blue
+	case bun.toll: image_blend = make_colour_rgb(239,249,240);	image_index = bc_specs[class,deets.spr_index]; break;		//light green
+	case bun.lite: image_blend = make_colour_rgb(252,251,242);	image_index = bc_specs[class,deets.spr_index]; break;	//yellow
+	case bun.nite: image_blend = make_colour_rgb(251,249,252);	image_index = bc_specs[class,deets.spr_index]; break;	//volet
+}
+image_alpha=1;
